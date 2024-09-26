@@ -1,5 +1,5 @@
 {
-    "name": "typescript",
+    "name": "typescript5.6.2",
     "author": "Microsoft Corp.",
     "homepage": "https://www.typescriptlang.org/",
     "version": "5.6.2",
@@ -22,8 +22,8 @@
     "main": "./lib/typescript.js",
     "typings": "./lib/typescript.d.ts",
     "bin": {
-        "tsc": "./bin/tsc",
-        "tsserver": "./bin/tsserver"
+        "tsc5.6.2": "./bin/tsc",
+        "tsserver5.6.2": "./bin/tsserver"
     },
     "engines": {
         "node": ">=14.17"
